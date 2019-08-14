@@ -1,0 +1,9 @@
+body .logo h1 {
+  text-transform: uppercase;
+  color: #fff;
+  font-family: "Roboto - Thin";
+  font-size: 30px;
+  font-weight: 900\;; }
+
+header ol {
+  list-style-type: none; }

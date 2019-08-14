@@ -1,0 +1,8 @@
+@media only screen and (max-width: 996px) {
+	header i.fa-bars {
+		display: block;
+	}
+	nav.nav {
+		display: none;
+	}
+}
